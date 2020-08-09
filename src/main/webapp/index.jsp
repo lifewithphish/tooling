@@ -6,7 +6,7 @@
     <script src="https://polyfill.io/v3/polyfill.min.js?features=default"></script>
 
     <script
-      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBQX8KDeVUTJlD0PTj6si0FP95iGmaLpDE&callback=initMap&libraries=places&v=weekly"
+      src="https://maps.googleapis.com/maps/api/js?key=XXXXXXX&callback=initMap&libraries=places&v=weekly"
       defer
     ></script>
 
